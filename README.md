@@ -1,8 +1,8 @@
-# hola tonota
+# Hola tonota
 Este es un repositorio de prueba
 
 ## Prueba 1
-## Prueba 2
+### Prueba 2
 
 ```bash
 git add.
